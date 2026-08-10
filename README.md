@@ -1,5 +1,12 @@
 <div align="center">
-
+> [!WARNING]
+> **This repository is no longer maintained.**
+>
+> Active development has moved to **Schrodinger**:
+> https://github.com/TheCodeVerseHub/Schrodinger
+>
+> This repository is kept for archival purposes only and will not receive future updates.
+   
 # CodeVerse Bot
 
 **Enterprise-grade Discord bot for programming communities with comprehensive management tools**
